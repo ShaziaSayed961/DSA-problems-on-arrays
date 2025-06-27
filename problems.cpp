@@ -19,7 +19,7 @@ int main() {
     return 0;
 }
 
-
+//better approach
 #include <bits/stdc++.h>
  
 using namespace std;
@@ -45,3 +45,5 @@ int main() {
   cout << "The largest element in the array is: " << max<<endl;
   return 0;
 }
+
+//optimal approach
