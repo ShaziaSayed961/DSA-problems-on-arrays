@@ -47,6 +47,7 @@ int main() {
 }
 
 //optimal approach
+//using recursive approach
 #include <bits/stdc++.h>
  
 using namespace std;
