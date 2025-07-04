@@ -1,5 +1,4 @@
 //problem statement:largest element in array 
-//solution contains brute, better and optimal approach
 //Brute Force
 #include<bits/stdc++.h>
 using namespace std;
