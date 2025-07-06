@@ -35,7 +35,7 @@ int findLargestElement(int arr[], int n) {
 
 
 //optimal approach
-//using recursive approach
+
 #include <bits/stdc++.h>
  
 using namespace std;
